@@ -1,11 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm ikeshri
-
-**Curious Tech Enthusiast • Front-End & Web Explorer • Problem Solver**
+<!-- एनिमेटेड टाइपिंग हेडर -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25C2A0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+ikeshri+👋;Science+Background+%7C+Tech+Learner;Building+Web+%26+Automation+Projects;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikeshri&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ikeshri&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
+
+<!-- सोशल / कांटेक्ट लिंक्स -->
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
@@ -13,33 +21,24 @@
 ### 💫 About Me
 </div>
 
-- 🔭 **Background:** Completed 12th in Science, now focused on tech and web development.
-- 🌱 **Learning & Building:** Modern web apps, clean UI designs, and hands-on Python scripts.
-- 💡 **Interests:** Digital tools, automation, and practical problem solving.
-- 🎯 **Goal:** Open to learning, collaborating on entry-level projects, and growing fast.
+- 🔭 **Background:** Completed 12th in Science, now focused on tech & web development.
+- 🌱 **Learning & Building:** Modern responsive websites, automation scripts, and practical tools.
+- 💡 **Interests:** Clean code structure, modern UI designs, and problem-solving.
+- 🎯 **Goal:** Open to entry-level roles, internships, and collaborative projects.
 
 ---
 
-### 🛠️ Core Skills
+### 🛠️ Core Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Web & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,git,github,vscode" />
+</p>
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikeshri&show_icons=true&theme=radical&hide_border=false" alt="ikeshri's stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeshri&layout=compact&theme=radical&hide_border=false" alt="ikeshri's Top Languages" width="48%" />
